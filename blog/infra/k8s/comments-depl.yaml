@@ -28,3 +28,4 @@ spec:
     - name: comments
       protocol: TCP
       port: 4001
+      targetPort: 4001
